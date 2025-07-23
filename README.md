@@ -1,4 +1,4 @@
-# Project_1_VideoGames_Sales_Analysis
+# Sales_Analysis
 **Objective: Identify success patterns in video game sales (2016 data) to plan 2017 marketing campaigns.**
 
 Data: Analyzed historical sales (NA, EU, JP), platforms, genres, and ESRB ratings from games.csv.
